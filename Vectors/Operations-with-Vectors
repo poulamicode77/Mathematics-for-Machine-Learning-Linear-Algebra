@@ -1,0 +1,46 @@
+1.
+This aim of this quiz is to familiarise yourself with vectors and some basic vector operations.
+
+For the following questions, the vectors a,b,c,d and e refer to those in this diagram:
+The sides of each square on the grid are of length 1.What is the numerical representation of the vector a?
+
+--> (2,2)
+
+2.
+Which vector in the diagram corresponds to 
+[
+−
+1
+2
+]
+
+--> vector d
+
+3.
+What vector is 2c?
+
+--> (2,2) and a
+
+4.
+What vector is -b?
+
+--> (-1,2) and d
+
+5.
+In the previous videos you saw that vectors can be added by placing them start-to-end. For example, the following diagram represents the sum of two new vectors,u + v:
+The sides of each square on the grid are still of length 1. Which of the following equations does the diagram represent?
+
+--> u = (2,1) and v = (0,1). So u+v = (2,2)
+
+6.
+Let's return to our vectors defined by the diagram below: What is the vector b + e?
+
+--> (-1,-1)
+
+7.What is the vector d-b?
+
+--> (-2,4)
+
+
+
+
