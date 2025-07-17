@@ -1,0 +1,41 @@
+1.
+As we have seen in the lecture videos, the dot product of vectors has a lot of applications. Here, you will complete some exercises involving the dot product.
+We have seen that the size of a vector with two components is calculated using Pythagoras' theorem, for example the following diagram shows how we calculate the 
+size of the orange vector r = (r1, r2)
+In fact, this definition can be extended to any number of dimensions; the size of a vector is the square root of the sum of the squares of its components.
+Using this information, what is the size of the vector s=(1 3 4 2)
+
+Ans--> sqrt(30)
+
+2.
+Remember the definition of the dot product from the videos. For two component vectors, 
+a.b = a1.b1 + a2.b2 +.....+ an.bn
+What is the dot product of the vectors r =(-5 3 2 8) and s =(1 2 -1 0)
+
+Ans--> r.s = -1
+
+3.
+The lectures introduced the idea of projecting one vector onto another. The following diagram shows the projection of s onto r when the vectors are in two dimensions:Remember that the scalar projection is the size of the green vector. If the angle between 
+s and r is greater than π/2 the projection will also have a minus sign.
+We can do projection in any number of dimensions. Consider two vectors with three components, r =( 3 -4 0) s= (10 5 -6)
+What is the scalar projection of s onto r?
+
+Ans--> 2
+
+4.
+Remember that in the projection diagram, the vector projection is the green vector: r =( 3 -4 0) s= (10 5 -6)
+What is the vector projection of s onto r?
+
+Ans --> (6/5 -8/5 0)
+
+5.
+Let a =(3 0 4) b=(0 5 12)
+which is larger |a+b| or |a|+|b|
+
+Ans--> |a+b|<|a|+|b|
+
+6.
+Which of the following statements about dot products are correct?
+
+Ans--> 1.The size of the vector is eqaul to the square root of the dot product of vector itself
+2. The vector projection of s onto r is equal to the scalar projection of s onto r multiplied by a vector of unit length that points in the same direction as r
